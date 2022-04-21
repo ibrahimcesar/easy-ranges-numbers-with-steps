@@ -4,6 +4,13 @@
   
   # Easy number range numbers with steps
   
+  [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://www.typescriptlang.org/)
+
+[![Version](https://img.shields.io/npm/v/easy-range-numbers-with-steps?label=latest%20version)](https://www.npmjs.com/package/easy-range-numbers-with-steps)&nbsp; &nbsp;&nbsp; &nbsp;![Total Downloads](https://img.shields.io/npm/dt/easy-range-numbers-with-steps?color=%23FF0000&logo=npm)&nbsp; &nbsp;&nbsp; &nbsp;[![License](https://badgen.net/github/license/ibrahimcesar/easy-ranges-numbers-with-steps)](./LICENSE)&nbsp; &nbsp;  &nbsp;![GitHub issues by-label](https://img.shields.io/github/issues/ibrahimcesar/easy-ranges-numbers-with-steps/bug)
+
+ 
+<p>Developed in 🇧🇷 <span role="img" aria-label="Flag for Brazil">Brazil</p>
+  
 </div>
 
 Minimal and handy utility to generate ranges of numbers with start, end and
