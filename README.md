@@ -78,6 +78,7 @@ This is a minimal lib. No external dependencies, feel free to just copy if neces
 ### Unit tests
 
 
+<img width="643" alt="Unit Tests" src="https://user-images.githubusercontent.com/509054/164478795-e94413f8-f230-4158-83d3-5d3969136cf6.png">
 
 
 ## MIT License
