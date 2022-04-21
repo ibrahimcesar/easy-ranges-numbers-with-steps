@@ -1,6 +1,6 @@
 {
   "name": "easy-range-numbers-with-steps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal and handy utility to generate ranges of numbers with start, end and optional steps",
   "source": "src/index.ts",
   "main": "dist/main.js",
